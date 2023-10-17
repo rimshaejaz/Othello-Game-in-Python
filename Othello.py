@@ -1,5 +1,4 @@
 # Author: Rimsha Ejaz
-# GitHub username: rimshaejaz
 # Date: 6/11/2023
 # Description: Write a class called Othello that allows two people to play text-based Othello. Othello is a
 # strategy board game. In this game, two players take turns placing their colored pieces on a 8x8 board. The objective
